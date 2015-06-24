@@ -1,12 +1,12 @@
 CACHE MANIFEST
 # version 1.0
-/js/my_js.js
-/js/my_context_js.js
-/js/my_css.css
+/game_web/js/my_js.js
+/game_web/js/my_context_js.js
+/game_web/js/my_css.css
 
 
 NETWORK:
-index.html
+/game_web/index.html
 
 FALLBACK:
-/ /404.html
+/game_web/ /game_web/404.html
