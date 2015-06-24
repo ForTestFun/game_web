@@ -49,7 +49,7 @@ function do_main()
 	canvas_draw_line();
 	canvas_draw_circle();
 	localStorage_func();
-	sessionStorage_func();
+	//sessionStorage_func();
 }
 
 do_main();
