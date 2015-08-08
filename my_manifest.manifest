@@ -1,8 +1,0 @@
-CACHE MANIFEST
-# version 1.6
-
-CACHE:
-js/my_js.js
-js/my_context_js.js
-css/my_css.css
-index.html
